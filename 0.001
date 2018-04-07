@@ -1,0 +1,5 @@
+create-react-native-app AwesomeProject
+
+cd AwesomeProject
+npm start
+ <Text>Hello world!</Text>
